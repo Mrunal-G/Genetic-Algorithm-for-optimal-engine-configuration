@@ -1,0 +1,13 @@
+D:\GAN\mutation\mutation\mutation\bin\Debug\netcoreapp3.0\mutation.exe
+D:\GAN\mutation\mutation\mutation\bin\Debug\netcoreapp3.0\mutation.deps.json
+D:\GAN\mutation\mutation\mutation\bin\Debug\netcoreapp3.0\mutation.runtimeconfig.json
+D:\GAN\mutation\mutation\mutation\bin\Debug\netcoreapp3.0\mutation.runtimeconfig.dev.json
+D:\GAN\mutation\mutation\mutation\bin\Debug\netcoreapp3.0\mutation.dll
+D:\GAN\mutation\mutation\mutation\bin\Debug\netcoreapp3.0\mutation.pdb
+D:\GAN\mutation\mutation\mutation\bin\Debug\netcoreapp3.0\cwklib2020.dll
+D:\GAN\mutation\mutation\mutation\obj\Debug\netcoreapp3.0\mutation.AssemblyInfoInputs.cache
+D:\GAN\mutation\mutation\mutation\obj\Debug\netcoreapp3.0\mutation.AssemblyInfo.cs
+D:\GAN\mutation\mutation\mutation\obj\Debug\netcoreapp3.0\mutation.csproj.CopyComplete
+D:\GAN\mutation\mutation\mutation\obj\Debug\netcoreapp3.0\mutation.dll
+D:\GAN\mutation\mutation\mutation\obj\Debug\netcoreapp3.0\mutation.pdb
+D:\GAN\mutation\mutation\mutation\obj\Debug\netcoreapp3.0\mutation.csprojAssemblyReference.cache

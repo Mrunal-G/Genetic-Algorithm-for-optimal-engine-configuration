@@ -1,0 +1,13 @@
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\obj\Debug\netcoreapp3.0\EL3300_assignment_GA.csprojAssemblyReference.cache
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\obj\Debug\netcoreapp3.0\EL3300_assignment_GA.AssemblyInfoInputs.cache
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\obj\Debug\netcoreapp3.0\EL3300_assignment_GA.AssemblyInfo.cs
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\bin\Debug\netcoreapp3.0\EL3300_assignment_GA.exe
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\bin\Debug\netcoreapp3.0\EL3300_assignment_GA.deps.json
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\bin\Debug\netcoreapp3.0\EL3300_assignment_GA.runtimeconfig.json
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\bin\Debug\netcoreapp3.0\EL3300_assignment_GA.runtimeconfig.dev.json
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\bin\Debug\netcoreapp3.0\EL3300_assignment_GA.dll
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\bin\Debug\netcoreapp3.0\EL3300_assignment_GA.pdb
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\bin\Debug\netcoreapp3.0\cwklib2020.dll
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\obj\Debug\netcoreapp3.0\EL3300_assignment_GA.csproj.CopyComplete
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\obj\Debug\netcoreapp3.0\EL3300_assignment_GA.dll
+D:\GA\EL3300_assignment_GA\EL3300_assignment_GA\EL3300_assignment_GA\obj\Debug\netcoreapp3.0\EL3300_assignment_GA.pdb
