@@ -12,3 +12,5 @@ A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s
 This project will review how each of the above five stages are designed and implemented to find optimal engine configurations using genetic algorithm coding in `C#` programming language using a `console application`.
 
 The complete code of the project is in `EL3300_assignment_GA_complete_code/EL3300_assignment_GA` direcory of this repository.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Genetic-Algorithm-to-find-optimal-engine-configuration)
