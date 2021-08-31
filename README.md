@@ -1,6 +1,7 @@
 # Genetic Algorithm to find optimal engine configuration
 
 A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation. This project deals with designing, implementing and testing a genetic algorithm program to find the optimal engine configurations.
+The project source code can be viewed [here](https://github.com/Mrunal-G/Genetic-Algorithm-for-optimal-engine-configuration/blob/master/EL3300_assignment_GA_complete_code/EL3300_assignment_GA/EL3300_assignment_GA/Program.cs)
 
 ![Output for each generation](https://github.com/Mrunal-G/Genetic-Algorithm-to-find-optimal-engine-configuration/blob/master/Images/generations.PNG)
 
